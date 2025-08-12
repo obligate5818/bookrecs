@@ -1,0 +1,44 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL13622288A"
+    }
+  ],
+  "isbn_13": [
+    "9781645660989"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "528",
+  "publish_date": "2024",
+  "publishers": [
+    "Kensington Publishing Corporation"
+  ],
+  "source_records": [
+    "bwb:9781645660989"
+  ],
+  "title": "Metal from Heaven",
+  "weight": "0.568",
+  "works": [
+    {
+      "key": "/works/OL37880636W"
+    }
+  ],
+  "key": "/books/OL51134352M",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-02-18T02:25:52.797931"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-02-18T02:25:52.797931"
+  }
+}
